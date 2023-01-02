@@ -63,6 +63,13 @@
     flex-direction: column;
 }
 
+.gpt3__footer-links_logo h1 {
+    font-family: var(--font-family);
+    font-size: 20px;
+    line-height: 15px;
+    color: #fff;
+}
+
 .gpt3__footer-links_logo img {
     width: 118px;
     height: 30px;
