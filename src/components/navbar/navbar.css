@@ -33,6 +33,16 @@
     align-items: center;
 }
 
+.fintech_logo {
+    color: #fff;
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: capitalize;
+    margin: 0 1rem;
+}
+
 .gpt3__navbar-links_container p,
 .gpt3__navbar-sign p,
 .gpt3__navbar-menu_container p {
@@ -42,7 +52,6 @@
     font-size: 18px;
     line-height: 25px;
     text-transform: capitalize;
-
     margin: 0 1rem;
     cursor: pointer;
 }
